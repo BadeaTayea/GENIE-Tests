@@ -2,10 +2,6 @@
 # Common Task 1: Auto-encoder for Quark/Gluon Event Reconstruction
 
 <div align="center">
-  <img src="figs/Common-Task-1/loss_curves.png" alt="Loss Curves" width="600">
-</div>
-
-<div align="center">
   <img src="figs/Common-Task-1/samples_0.png" alt="Sample 0">
 </div>
 
@@ -34,9 +30,11 @@
 # Specific Task 1: Deep Graph Anomaly Detection with Contrastive Learning
 
 <div align="center">
-  <img src="figs/Specific-Task-1/confusion-matrix.png" alt="Confusion Matrix" width="600">
+  <img src="figs/Specific-Task-1/roc-auc.png" alt="ROC-AUC" width="600">
 </div>
 
 <div align="center">
-  <img src="figs/Specific-Task-1/roc-auc.png" alt="ROC-AUC" width="600">
+  <img src="figs/Specific-Task-1/confusion-matrix.png" alt="Confusion Matrix" width="600">
 </div>
+
+
